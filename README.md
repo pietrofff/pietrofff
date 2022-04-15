@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pietrofff
-- 👀 I’m interested in 
+- 👀 I’m interested in Web development, Machine Learning and puppies
 - 🌱 I’m currently learning Angular
 
 <!---
